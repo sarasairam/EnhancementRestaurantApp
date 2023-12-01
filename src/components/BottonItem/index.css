@@ -1,0 +1,14 @@
+.buttons {
+  background-color: transparent;
+  border-color: transparent;
+  width: 150px;
+}
+.dataAdd {
+  border-bottom-color: brown;
+}
+.buttonItem {
+  border-top-color: #bdbaba;
+  border-bottom-color: #bdbaba;
+  padding-left: 50px;
+  font-size: 20px;
+}

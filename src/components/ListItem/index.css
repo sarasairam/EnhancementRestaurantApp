@@ -1,0 +1,79 @@
+.card {
+  border: 1px solid #cfc6c6;
+  border-radius: 10px;
+  margin-bottom: 3px;
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.logoStyle {
+  width: 50px;
+  height: 50px;
+}
+.dishImgDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.dishImage {
+  height: 120px;
+  width: 120px;
+}
+.card-2 {
+  display: flex;
+  flex-direction: row;
+  width: 550px;
+}
+.custom {
+  background-color: rgb(50, 145, 50);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 90px;
+  height: 35px;
+  color: #ffffff;
+  border-radius: 25px;
+}
+.customButton {
+  background-color: transparent;
+  border: 0px;
+  color: #ffffff;
+}
+.name {
+  font-weight: 500;
+  font-size: 15px;
+}
+.sar {
+  color: #727070;
+  font-size: 14px;
+  font-weight: 400;
+}
+.des {
+  color: #c0bdbd;
+  font-size: 14px;
+}
+.para {
+  font-size: 12px;
+}
+.custAv {
+  color: #525bdf;
+  font-size: 12px;
+}
+.calories {
+  color: #faab00;
+}
+.calDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.addToCartBtn {
+  background-color: #525bdf;
+  border-radius: 10px;
+  margin: 5px;
+  padding: 10px;
+  border: 0px;
+  color: #ffffff;
+  font-size: 10px;
+}
